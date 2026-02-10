@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">👩‍💻 Amna Sheza | Cybersecurity Student</h1>
 <h3 align="center">Future Cybersecurity Analyst | Digital Forensics | GRC | CTF Player</h3>
 
@@ -10,8 +9,8 @@
 
 ---
 
-# 🧠 About Me
-I am a cybersecurity undergraduate passionate about building practical skills in:
+## Hi there 👋
+I'm Amna Sheza, a cybersecurity undergraduate passionate about building practical skills in:
 
 - 🔍 Digital Forensics  
 - 🏴 Capture The Flag (CTFs)  
@@ -25,13 +24,13 @@ Currently building a strong GitHub portfolio to showcase real-world cybersecurit
 
 # ⚒️ Tools & Technologies
 <p>
-🛠 Wireshark &nbsp;
-🛠 Autopsy &nbsp;
-🛠 Nmap &nbsp;
-🛠 Kali Linux &nbsp;
-🛠 Burp Suite &nbsp;
-🛠 FTK Imager &nbsp;
+🛠 Google Colab &nbsp;
+🛠 VS code &nbsp;
+🛠 HTML, CSS, PHP &nbsp;
 🛠 Python &nbsp;
+🛠 Kali Linux (beginner) &nbsp;
+🛠 Wireshark (basic) &nbsp;
+🛠 Cisco Packet Tracer &nbsp;
 🛠 Git & GitHub
 </p>
 
