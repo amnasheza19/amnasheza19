@@ -1,7 +1,4 @@
 ## Hi there 👋
-🎓 Cybersecurity Undergraduate
-🔐 Interested in: Digital Forensics | GRC | CTFs | Security Awareness
-📍 Based in UAE
 
 🎓I’m Amna Sheza, a cybersecurity undergrad with a strong interest in **Governance, Risk & Compliance (GRC)** and how **AI-driven solutions** can improve organizational security. I focus on both **technical understanding and strategic planning**, especially in risk, incident response, and resilience.
 
