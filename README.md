@@ -4,7 +4,7 @@
 
 <p align="center">
 🔐 Cybersecurity Undergraduate <br>
-📍 UAE | Open to Internships <br>
+📍 Abu Dhabi, UAE | Open to Internships <br>
 🎯 Building hands-on cybersecurity & GRC portfolio
 </p>
 
@@ -31,14 +31,14 @@ Currently building a strong GitHub portfolio to showcase real-world cybersecurit
 🛠 Kali Linux &nbsp;
 🛠 Burp Suite &nbsp;
 🛠 FTK Imager &nbsp;
-🛠 Python (Beginner) &nbsp;
+🛠 Python &nbsp;
 🛠 Git & GitHub
 </p>
 
 ---
 
 # 📂 Featured Cybersecurity Projects
-- 🔹 CTF Writeups (PicoCTF, TryHackMe)
+- 🔹 CTF Writeups 
 - 🔹 Digital Forensics Investigations
 - 🔹 GRC & Risk Assessment Portfolio
 - 🔹 Security Awareness Toolkit
@@ -49,15 +49,15 @@ Currently building a strong GitHub portfolio to showcase real-world cybersecurit
 # 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amnasheza19&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnasheza19&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnasheza19&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -72,30 +72,7 @@ Currently building a strong GitHub portfolio to showcase real-world cybersecurit
 ---
 
 # 🌐 Connect With Me
-💼 LinkedIn: (add later)  
-📧 Email: (optional)  
-
----
-
-<p align="center">
-⚡ “Learning cybersecurity through practice, investigation, and continuous curiosity.”
-</p>
-
-🎓I’m Amna Sheza, a cybersecurity undergrad with a strong interest in **Governance, Risk & Compliance (GRC)** and how **AI-driven solutions** can improve organizational security. I focus on both **technical understanding and strategic planning**, especially in risk, incident response, and resilience.
-
-🧠 What I’m Into
-- 🏛️ GRC & compliance frameworks  
-- ⚠️ Risk assessments & planning  
-- 🔥 Incident response & DR playbooks  
-- 🤖 AI in cybersecurity  
-- 🔍 Digital forensics & investigations  
-
-## 🎯 2026 Goals
-
-* Get cybersecurity internship
-* Complete 50+ CTF challenges
-* Build strong GitHub portfolio
-* Earn cybersecurity certifications
+💼 LinkedIn: https://www.linkedin.com/in/amna-sheza-sheriff-b37539331/  
 
 ---
 
