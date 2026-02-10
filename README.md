@@ -46,21 +46,6 @@ Currently building a strong GitHub portfolio to showcase real-world cybersecurit
 
 ---
 
-# 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amnasheza19&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnasheza19&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnasheza19&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🏆 2026 Cybersecurity Goals
 ✔ Land cybersecurity internship  
