@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Amna Sheza | Cybersecurity Student</h1>
-<h3 align="center">Future Cybersecurity Analyst | Digital Forensics | GRC | CTF Player</h3>
+<h3 align="center">Future Cybersecurity Analyst | Digital Forensics | GRC | CTF </h3>
 
 <p align="center">
 🔐 Cybersecurity Undergraduate <br>
